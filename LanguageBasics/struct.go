@@ -1,6 +1,8 @@
 package LanguageBasics
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // taking a struct
 type Rect struct {

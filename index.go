@@ -10,4 +10,6 @@ func main() {
 	LanguageBasics.StructEx()
 	LanguageBasics.SliceExample()
 	LanguageBasics.MakeSlice()
+	LanguageBasics.TicTacToeMultiDimensional()
+	LanguageBasics.IntroToPointers()
 }
